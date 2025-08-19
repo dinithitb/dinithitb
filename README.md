@@ -3,7 +3,9 @@
 Dinithi Bandaranayake Undergraduate | Faculty Of Computing | Sabaragamuwa University of Sri Lanka Aspiring Software Engineer | Back-End Enthusiast
 
 Languages: HTML, CSS, C, Java
+
 Frameworks: React.js (learning)
+
 Database: MySQL
 
 <!--
