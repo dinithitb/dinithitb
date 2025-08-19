@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Dinithi Bandaranayake Undergraduate | Faculty Of Computing | Sabaragamuwa University of Sri Lanka Aspiring Software Engineer | Back-End Enthusiast
+
+Languages: HTML, CSS, C, Java
+Frameworks: React.js (learning)
+Database: MySQL
+
 <!--
 **dinithitb/dinithitb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
